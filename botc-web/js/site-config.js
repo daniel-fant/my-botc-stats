@@ -26,7 +26,7 @@ const SITE_CONFIG = {
     minGamesForLeaderboard: 4,
 
     // ELO settings
-    defaultRating: 1500,    // Starting ELO for new players
+    defaultRating: 1000,    // Starting ELO for new players
     kFactor: 32,            // How much each game affects ratings (higher = more volatile)
 };
 
