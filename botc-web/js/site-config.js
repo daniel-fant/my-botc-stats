@@ -12,18 +12,18 @@ const SITE_CONFIG = {
     // Get these from: Supabase Dashboard > Settings > API
     // Leave as-is to use demo mode with sample data.
 
-    supabaseUrl: 'YOUR_SUPABASE_URL',           // e.g., 'https://abcdefgh.supabase.co'
-    supabaseAnonKey: 'YOUR_SUPABASE_ANON_KEY',   // The "anon public" key
+    supabaseUrl: 'https://ysqnccwltpawsmniiumg.supabase.co',           // e.g., 'https://abcdefgh.supabase.co'
+    supabaseAnonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlzcW5jY3dsdHBhd3NtbmlpdW1nIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYzMDA2MTgsImV4cCI6MjA5MTg3NjYxOH0.JVDIAY-l8Qu0aGUGQCZajHgdEEIY3VtbTyh5rmZKtjo',   // The "anon public" key
 
     // ==========================================
     // OPTIONAL: Customize Your Site
     // ==========================================
 
     // Community name shown in the header
-    communityName: 'Blood on the Clocktower',
+    communityName: 'Clocktower in Mainz',
 
     // Minimum games a player needs to appear on the leaderboard
-    minGamesForLeaderboard: 1,
+    minGamesForLeaderboard: 4,
 
     // ELO settings
     defaultRating: 1500,    // Starting ELO for new players
